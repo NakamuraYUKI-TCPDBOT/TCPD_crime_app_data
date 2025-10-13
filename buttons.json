@@ -1,0 +1,129 @@
+[
+  {
+    "label": "コンビニ強盗",
+    "group_names": ["shop_robbery", "robbery_weapon", "hostage", "npckill"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
+    "label": "家強盗",
+    "group_names": ["house_robbery", "robbery"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
+    "label": "ATM強盗",
+    "group_names": ["atm_robbery", "robbery"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
+    "label": "銀行強盗",
+    "group_names": ["bank", "robbery_weapon", "hostage"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "現金輸送車",
+    "group_names": ["cash_truck", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "宝石強盗",
+    "group_names": ["vangelico", "robbery_weapon", "hostage"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "金庫強盗",
+    "group_names": ["vault", "robbery_weapon", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "アートヘイスト",
+    "group_names": ["art", "robbery_weapon", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "トレインヘイスト",
+    "group_names": ["train", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "バージヘイスト",
+    "group_names": ["barge", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "アンダー強盗",
+    "group_names": ["below_the_vault", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "ボブキャット襲撃",
+    "group_names": ["bobcat", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "客船強盗",
+    "group_names": ["yacht", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "パレト銀行強盗",
+    "group_names": ["paleto", "robbery_weapon", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "飛行場襲撃",
+    "group_names": ["deluxe_car", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "オイルリグ",
+    "group_names": ["oilrig", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "アーティファクト",
+    "group_names": ["artifact", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "ヒューメインラボ",
+    "group_names": ["humane_labs", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "カジノヘイスト",
+    "group_names": ["casino", "robbery_weapon", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "警察署襲撃",
+    "group_names": ["police_station_raid"],
+    "group": "特殊",
+    "clear_first": false
+  },
+  {
+    "label": "クリア",
+    "group_names": [],
+    "group": "操作",
+    "clear_first": false,
+    "is_clear": true
+  }
+]
