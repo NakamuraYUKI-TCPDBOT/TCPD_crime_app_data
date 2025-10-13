@@ -1,5 +1,5 @@
 [
-  {"name": "プレイヤー殺人","fine": 50,"prison": 10,"group": ["playerkill"],"input": false
+  {"name": "プレイヤー殺人","fine": 5000,"prison": 10,"group": ["playerkill"],"input": false
   },
   {"name": "プレイヤー殺人未遂","fine": 25,"prison": 5,"group": [],"input": false
   },
