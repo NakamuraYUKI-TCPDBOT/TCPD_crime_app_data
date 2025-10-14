@@ -115,7 +115,7 @@
   },
   {
     "label": "市長の家",
-    "group_names": ["mayor", "robbery_weapon", "playerkill"],
+    "group_names": ["mayor", "robbery_weapon",  "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
