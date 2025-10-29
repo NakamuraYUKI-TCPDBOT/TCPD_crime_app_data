@@ -81,8 +81,6 @@
   },
   {"name": "カジノヘイスト","fine": 5000,"prison": 30,"group": ["casino"],"input": false
   },
-  {"name": "市長の家","fine": 4500,"prison": 25,"group": ["mayor"],"input": false
-  },
   {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true
   },
   {"name": "自販機強盗","fine": 10,"prison": 0,"group": [],"input": false
