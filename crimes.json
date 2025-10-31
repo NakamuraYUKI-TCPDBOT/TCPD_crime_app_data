@@ -45,7 +45,7 @@
   },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
-  {"name": "宝石強盗","fine": 40,"prison": 20,"group": ["vangelico"],"input": false
+  {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false
   },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
