@@ -42,6 +42,18 @@
     "clear_first": true
   },
   {
+    "label": "ユニオン強盗",
+    "group_names": ["union", "robbery_weapon", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "パシフィック銀行強盗",
+    "group_names": ["pacific", "robbery_weapon", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
     "label": "飛行場襲撃",
     "group_names": ["deluxe_car", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
