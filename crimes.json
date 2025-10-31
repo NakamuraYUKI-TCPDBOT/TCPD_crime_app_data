@@ -35,9 +35,9 @@
   },
   {"name": "なりすまし","fine": 1000,"prison": 15,"group": [],"input": false
   },
-  {"name": "コンビニ強盗","fine": 30,"prison": 5,"group": ["shop_robbery"],"input": false
+  {"name": "コンビニ強盗","fine": 75,"prison": 5,"group": ["shop_robbery"],"input": false
   },
-  {"name": "家強盗","fine": 15,"prison": 5,"group": ["house_robbery"],"input": false
+  {"name": "家強盗","fine": 75,"prison": 5,"group": ["house_robbery"],"input": false
   },
   {"name": "ATM強盗","fine": 35,"prison": 5,"group": ["atm_robbery"],"input": false
   },
@@ -45,11 +45,11 @@
   },
   {"name": "ブースティング S,A","fine": 500,"prison": 20,"group": [],"input": false
   },
-  {"name": "銀行強盗","fine": 190,"prison": 15,"group": ["bank"],"input": false
+  {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
   {"name": "現金輸送車襲撃（保留）","fine": 0,"prison": 20,"group": ["cash_truck"],"input": false
   },
-  {"name": "宝石強盗","fine": 210,"prison": 20,"group": ["vangelico"],"input": false
+  {"name": "宝石強盗","fine": 40,"prison": 20,"group": ["vangelico"],"input": false
   },
   {"name": "金庫強盗（保留）","fine": 0,"prison": 20,"group": ["vault"],"input": false
   },
@@ -61,29 +61,27 @@
   },
   {"name": "アンダー強盗","fine": 350,"prison": 20,"group": ["below_the_vault"],"input": false
   },
-  {"name": "ボブキャット襲撃","fine": 100,"prison": 25,"group": ["bobcat"],"input": false
+  {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
-  {"name": "客船強盗","fine": 2000,"prison": 25,"group": ["yacht"],"input": false
+  {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false
   },
-  {"name": "パレト銀行強盗","fine": 2300,"prison": 25,"group": ["paleto"],"input": false
+  {"name": "パレト銀行強盗","fine": 800,"prison": 25,"group": ["paleto"],"input": false
   },
-  {"name": "ユニオン強盗","fine": 3600,"prison": 30,"group": ["union"],"input": false
+  {"name": "ユニオン強盗","fine": 1200,"prison": 30,"group": ["union"],"input": false
   },
-  {"name": "パシフィック銀行強盗","fine": 5000,"prison": 30,"group": ["pacific"],"input": false
+  {"name": "パシフィック銀行強盗","fine": 1300,"prison": 30,"group": ["pacific"],"input": false
   },
-  {"name": "飛行場襲撃","fine": 2000,"prison": 30,"group": ["deluxe_car"],"input": false
+  {"name": "飛行場襲撃","fine": 700,"prison": 30,"group": ["deluxe_car"],"input": false
   },
-  {"name": "オイルリグ","fine": 1600,"prison": 30,"group": ["oilrig"],"input": false
+  {"name": "オイルリグ","fine": 850,"prison": 30,"group": ["oilrig"],"input": false
   },
-  {"name": "アーティファクト","fine": 3120,"prison": 30,"group": ["artifact"],"input": false
+  {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false
   },
-  {"name": "ヒューメインラボ","fine": 3500,"prison": 30,"group": ["humane_labs"],"input": false
+  {"name": "ヒューメインラボ","fine": 0,"prison": 30,"group": ["humane_labs"],"input": false
   },
-  {"name": "カジノヘイスト","fine": 5000,"prison": 30,"group": ["casino"],"input": false
+  {"name": "カジノヘイスト","fine": 0,"prison": 30,"group": ["casino"],"input": false
   },
   {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true
-  },
-  {"name": "自販機強盗","fine": 10,"prison": 0,"group": [],"input": false
   }
   
 
