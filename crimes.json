@@ -39,27 +39,13 @@
   },
   {"name": "家強盗","fine": 75,"prison": 5,"group": ["house_robbery"],"input": false
   },
-  {"name": "ATM強盗","fine": 35,"prison": 5,"group": ["atm_robbery"],"input": false
-  },
   {"name": "ブースティング B,C,D","fine": 150,"prison": 5,"group": [],"input": false
   },
   {"name": "ブースティング S,A","fine": 500,"prison": 20,"group": [],"input": false
   },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
-  {"name": "現金輸送車襲撃（保留）","fine": 0,"prison": 20,"group": ["cash_truck"],"input": false
-  },
   {"name": "宝石強盗","fine": 40,"prison": 20,"group": ["vangelico"],"input": false
-  },
-  {"name": "金庫強盗（保留）","fine": 0,"prison": 20,"group": ["vault"],"input": false
-  },
-  {"name": "アートヘイスト","fine": 500,"prison": 20,"group": ["art"],"input": false
-  },
-  {"name": "トレインヘイスト","fine": 350,"prison": 20,"group": ["train"],"input": false
-  },
-  {"name": "バージヘイスト","fine": 350,"prison": 20,"group": ["barge"],"input": false
-  },
-  {"name": "アンダー強盗","fine": 350,"prison": 20,"group": ["below_the_vault"],"input": false
   },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
@@ -76,10 +62,6 @@
   {"name": "オイルリグ","fine": 850,"prison": 30,"group": ["oilrig"],"input": false
   },
   {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false
-  },
-  {"name": "ヒューメインラボ","fine": 0,"prison": 30,"group": ["humane_labs"],"input": false
-  },
-  {"name": "カジノヘイスト","fine": 0,"prison": 30,"group": ["casino"],"input": false
   },
   {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true
   }
