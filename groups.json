@@ -11,20 +11,20 @@
   "cash_truck":[23],
   "vangelico":[23],
   "vault":[26],
-  "art":[27],
+  "art":[24],
   "train":[28],
   "barge":[29],
   "below_the_vault":[30],
-  "bobcat":[24],
-  "yacht":[25],
-  "paleto":[26],
-  "union":[27],
-  "pacific":[28],
-  "deluxe_car":[29],
-  "oilrig":[30],
-  "artifact":[31],
-  "mayor_factory":[32]
+  "bobcat":[25],
+  "yacht":[26],
+  "paleto":[27],
+  "union":[28],
+  "pacific":[29],
+  "deluxe_car":[30],
+  "oilrig":[31],
+  "artifact":[32],
+  "mayor_factory":[33]
   "humane_labs":[39],
   "casino":[40],
-  "police_station_raid":[33]
+  "police_station_raid":[34]
 }
