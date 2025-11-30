@@ -25,7 +25,7 @@
   },
   {
     "label": "アートヘイスト",
-    "group_names": ["art_heist", "robbery_weapon", "npckill", "playerkill"],
+    "group_names": ["art", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
