@@ -47,6 +47,8 @@
   },
   {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false
   },
+  {"name": "アートヘイスト","fine": 300,"prison": 15,"group": ["art"],"input": false
+  },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
   {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false
