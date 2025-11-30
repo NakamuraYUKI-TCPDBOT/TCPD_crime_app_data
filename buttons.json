@@ -24,6 +24,12 @@
     "clear_first": true
   },
   {
+    "label": "アートヘイスト",
+    "group_names": ["art_heist", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
     "label": "ボブキャット襲撃",
     "group_names": ["bobcat", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
@@ -68,6 +74,12 @@
   {
     "label": "アーティファクト",
     "group_names": ["artifact", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "市長の工場強盗",
+    "group_names": ["mayor_factory", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
