@@ -41,7 +41,7 @@
   },
   {"name": "ブースティング B,C,D","fine": 150,"prison": 5,"group": [],"input": false
   },
-  {"name": "ブースティング S,A","fine": 500,"prison": 20,"group": [],"input": false
+  {"name": "ブースティング S,A","fine": 300,"prison": 20,"group": [],"input": false
   },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
