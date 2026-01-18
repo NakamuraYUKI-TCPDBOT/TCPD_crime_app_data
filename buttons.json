@@ -6,12 +6,6 @@
     "clear_first": true
   },
   {
-    "label": "家強盗2",
-    "group_names": ["house_robbery", "robbery"],
-    "group": "小型",
-    "clear_first": true
-  },
-  {
     "label": "銀行強盗5+2",
     "group_names": ["bank", "robbery_weapon", "hostage"],
     "group": "中型",
@@ -26,12 +20,6 @@
   {
     "label": "武器強盗6",
     "group_names": ["ammunation", "robbery_weapon"],
-    "group": "中型",
-    "clear_first": true
-  },
-  {
-    "label": "アートヘイスト6",
-    "group_names": ["art", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
@@ -74,12 +62,6 @@
   {
     "label": "オイルリグ9",
     "group_names": ["oilrig", "robbery_weapon", "npckill", "playerkill"],
-    "group": "大型",
-    "clear_first": true
-  },
-  {
-    "label": "アーティファクト12",
-    "group_names": ["artifact", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
