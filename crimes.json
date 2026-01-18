@@ -37,17 +37,11 @@
   },
   {"name": "コンビニ強盗","fine": 75,"prison": 5,"group": ["shop_robbery"],"input": false
   },
-  {"name": "家強盗","fine": 75,"prison": 5,"group": ["house_robbery"],"input": false
-  },
-  {"name": "ブースティング B,C,D","fine": 100,"prison": 5,"group": [],"input": false
-  },
-  {"name": "ブースティング S,A","fine": 300,"prison": 20,"group": [],"input": false
-  },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
   {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false
   },
-  {"name": "アートヘイスト","fine": 300,"prison": 15,"group": ["art"],"input": false
+  {"name": "武器強盗","fine": 0,"prison": 0,"group": ["ammunation"],"input": false
   },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
@@ -62,8 +56,6 @@
   {"name": "飛行場襲撃","fine": 700,"prison": 30,"group": ["deluxe_car"],"input": false
   },
   {"name": "オイルリグ","fine": 850,"prison": 30,"group": ["oilrig"],"input": false
-  },
-  {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false
   },
   {"name": "市長の工場強盗","fine":1500,"prison": 30,"group": ["mayor_factory"],"input": false
   },
