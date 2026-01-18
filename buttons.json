@@ -24,6 +24,12 @@
     "clear_first": true
   },
   {
+    "label": "武器強盗6",
+    "group_names": ["ammunation", "robbery_weapon"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
     "label": "アートヘイスト6",
     "group_names": ["art", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
