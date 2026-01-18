@@ -19,7 +19,7 @@
   },
   {
     "label": "武器強盗6",
-    "group_names": ["ammunation", "robbery_weapon"],
+    "group_names": ["ammunation", "robbery_weapon", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
