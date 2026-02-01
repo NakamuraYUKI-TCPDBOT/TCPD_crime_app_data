@@ -24,8 +24,8 @@
     "clear_first": true
   },
   {
-    "label": "カニバル強盗",
-    "group_names": ["ammunation", "robbery_weapon", "npckill", "playerkill"],
+    "label": "カニバル強盗7",
+    "group_names": ["cannibal", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
