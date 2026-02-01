@@ -43,6 +43,8 @@
   },
   {"name": "武器強盗","fine": 300,"prison": 15,"group": ["ammunation"],"input": false
   },
+  {"name": "カニバル強盗","fine": 400,"prison": 15,"group": ["cannibal"],"input": false
+  },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
   {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false
