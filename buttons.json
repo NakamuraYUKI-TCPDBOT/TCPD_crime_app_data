@@ -1,84 +1,90 @@
 [
   {
-    "label": "コンビニ強盗4",
+    "label": "コンビニ強盗 4",
     "group_names": ["shop_robbery", "robbery_weapon", "hostage", "npckill"],
     "group": "小型",
     "clear_first": true
   },
   {
-    "label": "銀行強盗5+2",
+    "label": "銀行強盗 5+2",
     "group_names": ["bank", "robbery_weapon", "hostage"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "宝石強盗7+2",
+    "label": "宝石強盗 7+2",
     "group_names": ["vangelico", "robbery_weapon", "hostage"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "武器強盗6",
+    "label": "武器強盗 6",
     "group_names": ["ammunation", "robbery_weapon", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "カニバル強盗7",
+    "label": "カニバル強盗 7",
     "group_names": ["cannibal", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "ボブキャット襲撃10",
+    "label": "ボブキャット襲撃 10",
     "group_names": ["bobcat", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "客船強盗11",
+    "label": "客船強盗 11",
     "group_names": ["yacht", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "パレト銀行強盗10",
+    "label": "パレト銀行強盗 10",
     "group_names": ["paleto", "robbery_weapon", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "ユニオン強盗14",
+    "label": "ユニオン強盗 14",
     "group_names": ["union", "robbery_weapon", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "パシフィック銀行強盗15",
+    "label": "パシフィック銀行強盗 15",
     "group_names": ["pacific", "robbery_weapon", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "飛行場襲撃12",
+    "label": "飛行場襲撃 12",
     "group_names": ["deluxe_car", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "オイルリグ9",
+    "label": "オイルリグ 9",
     "group_names": ["oilrig", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "市長の工場強盗15",
+    "label": "アーティファクト 12",
+    "group_names": ["artifact", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "市長の工場強盗 15",
     "group_names": ["mayor_factory", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "警察署襲撃∞",
+    "label": "警察署襲撃 ∞",
     "group_names": ["police_station_raid"],
     "group": "特殊",
     "clear_first": false
