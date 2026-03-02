@@ -84,6 +84,12 @@
     "clear_first": true
   },
   {
+    "label": "ヒューマンラボ 15",
+    "group_names": ["humane_labs", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
     "label": "警察署襲撃 ∞",
     "group_names": ["police_station_raid"],
     "group": "特殊",
