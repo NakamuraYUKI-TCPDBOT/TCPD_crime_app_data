@@ -63,7 +63,7 @@
   },
   {"name": "市長の工場強盗","fine":1500,"prison": 30,"group": ["mayor_factory"],"input": false
   },
-  {"name": "ヒューマンラボ","fine":0,"prison": 0,"group": ["humane_labs"],"input_fine": true,"input_fine_label": "万","input_prison": true,"input_prison_label": "分","allow_prison_over": true
+  {"name": "ヒューマンラボ","fine":1000,"prison": 30,"group": ["humane_labs"],"input_fine": false
   },
   {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true
   }
