@@ -41,7 +41,7 @@
   },
   {"name": "標識強盗","fine": 0,"prison": 5,"group": ["sign_robbery"],"input": false
   },
-  {"name": "ブースティングB,C,D","fine": 50,"prison": 10,"group": ["boost_lower"],"input": false
+  {"name": "ブースティングB,C,D","fine": 0,"prison": 0,"group","input_fine": true,"input_prison": true,: ["boost_lower"],"input": false
   },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
@@ -51,7 +51,7 @@
   },
   {"name": "カニバル強盗","fine": 400,"prison": 15,"group": ["cannibal"],"input": false
   },
-  {"name": "ブースティングS,A","fine": 400,"prison": 15,"group": ["boost_high"],"input": false
+  {"name": "ブースティングS,A","fine": 0,"prison": 0,"group","input_fine": true,"input_prison": true,"group": ["boost_high"],"input": false
   },
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
   },
