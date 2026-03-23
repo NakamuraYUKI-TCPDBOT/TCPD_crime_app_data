@@ -6,6 +6,18 @@
     "clear_first": true
   },
   {
+    "label": "ATM強盗 2",
+    "group_names": ["atm_robbery", "robbery_weapon"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
+    "label": "標識強盗",
+    "group_names": ["sign_robbery"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
     "label": "銀行強盗 5+2",
     "group_names": ["bank", "robbery_weapon", "hostage"],
     "group": "中型",
