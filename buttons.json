@@ -1,6 +1,6 @@
 [
   {
-    "label": "コンビニ強盗 4",
+    "label": "コンビニ強盗 2",
     "group_names": ["shop_robbery", "robbery_weapon", "hostage", "npckill"],
     "group": "小型",
     "clear_first": true
