@@ -7,13 +7,19 @@
   },
   {
     "label": "ATM強盗 2",
-    "group_names": ["atm_robbery", "robbery_weapon"],
+    "group_names": ["atm_robbery", "robbery"],
     "group": "小型",
     "clear_first": true
   },
   {
     "label": "標識強盗",
     "group_names": ["sign_robbery"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
+    "label": "ブースティングB,C,D",
+    "group_names": ["boost_lower","robbery"],
     "group": "小型",
     "clear_first": true
   },
@@ -38,6 +44,12 @@
   {
     "label": "カニバル強盗 7",
     "group_names": ["cannibal", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "ブースティングS,A",
+    "group_names": ["boost_high", "robbery_weapon", "npckill"],
     "group": "中型",
     "clear_first": true
   },
