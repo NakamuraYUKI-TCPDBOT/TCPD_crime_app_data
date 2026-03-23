@@ -1,81 +1,40 @@
 [
-  {"name": "プレイヤー殺人","fine": 50,"prison": 10,"group": ["playerkill"],"input": false
-  },
-  {"name": "プレイヤー殺人未遂","fine": 25,"prison": 5,"group": [],"input": false
-  },
-  {"name": "NPC殺人","fine": 5,"prison": 5,"group": ["npckill"],"input": false
-  },
-  {"name": "NPC殺人未遂","fine": 3,"prison": 5,"group": [],"input": false
-  },
-  {"name": "銃刀法違反","fine": 10,"prison": 0,"group": [],"input": false
-  },
-  {"name": "薬物所持","fine": 0,"prison": 10,"input_count": true,"input_count_label": "個数","fine_per_unit": 10
-  },
-  {"name": "薬物販売","fine": 200,"prison": 10,"group": [],"input": false
-  },
-  {"name": "薬物生成","fine": 200,"prison": 10,"group": [],"input": false
-  },
-  {"name": "花所持","fine": 0,"prison": 0,"group": [],"input": false
-  },
-  {"name": "逃走補助","fine": 200,"prison": 15,"group": ["escape"],"input": false
-  },
-  {"name": "窃盗/窃盗未遂","fine": 7,"prison": 5,"group": [],"input": false
-  },
-  {"name": "公務執行妨害","fine": 10,"prison": 5,"group": [],"input": false
-  },
-  {"name": "暴行","fine": 5,"prison": 5,"group": [],"input": false
-  },
-  {"name": "拉致/監禁","fine": 10,"prison": 5,"group": [],"input": false
-  },
-  {"name": "セクハラ","fine": 0,"prison": 0,"input_fine": true,"input_fine_label": "5～20万","input_prison": true,"input_prison_label": "0～10分","allow_prison_over": true
-  },
-  {"name": "侮辱","fine": 0,"prison": 0,"input_fine": true,"input_fine_label": "5～20万","input_prison": true,"input_prison_label": "0～10分","allow_prison_over": true
-  },
-  {"name": "詐欺","fine": 500,"prison": 0,"input_prison": true,"input_prison_label": "0～10分"
-  },
-  {"name": "なりすまし","fine": 1000,"prison": 15,"group": [],"input": false
-  },
-  {"name": "コンビニ強盗","fine": 75,"prison": 5,"group": ["shop_robbery"],"input": false
-  },
-  {"name": "ATM強盗","fine": 75,"prison": 5,"group": ["atm_robbery"],"input": false
-  },
-  {"name": "標識強盗","fine": 0,"prison": 5,"group": ["sign_robbery"],"input": false
-  },
-  {"name": "ブースティングB,C,D","fine": 0,"prison": 0,"group","input_fine": true,"input_prison": true,"group": ["boost_lower"],"input": false
-  },
-  {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
-  },
-  {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false
-  },
-  {"name": "武器強盗","fine": 300,"prison": 15,"group": ["ammunation"],"input": false
-  },
-  {"name": "カニバル強盗","fine": 400,"prison": 15,"group": ["cannibal"],"input": false
-  },
-  {"name": "ブースティングS,A","fine": 0,"prison": 0,"group","input_fine": true,"input_prison": true,"group": ["boost_high"],"input": false
-  },
-  {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false
-  },
-  {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false
-  },
-  {"name": "パレト銀行強盗","fine": 800,"prison": 25,"group": ["paleto"],"input": false
-  },
-  {"name": "ユニオン強盗","fine": 1200,"prison": 30,"group": ["union"],"input": false
-  },
-  {"name": "パシフィック銀行強盗","fine": 1300,"prison": 30,"group": ["pacific"],"input": false
-  },
-  {"name": "飛行場襲撃","fine": 700,"prison": 30,"group": ["deluxe_car"],"input": false
-  },
-  {"name": "オイルリグ","fine": 850,"prison": 30,"group": ["oilrig"],"input": false
-  },
-  {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false
-  },
-  {"name": "市長の工場強盗","fine":1500,"prison": 30,"group": ["mayor_factory"],"input": false
-  },
-  {"name": "ヒューマンラボ","fine":1000,"prison": 30,"group": ["humane_labs"],"input_fine": false
-  },
-  {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true
-  }
-  
-
-
+  {"name": "プレイヤー殺人","fine": 50,"prison": 10,"group": ["playerkill"],"input": false},
+  {"name": "プレイヤー殺人未遂","fine": 25,"prison": 5,"group": [],"input": false},
+  {"name": "NPC殺人","fine": 5,"prison": 5,"group": ["npckill"],"input": false},
+  {"name": "NPC殺人未遂","fine": 3,"prison": 5,"group": [],"input": false},
+  {"name": "銃刀法違反","fine": 10,"prison": 0,"group": [],"input": false},
+  {"name": "薬物所持","fine": 0,"prison": 10,"input_count": true,"input_count_label": "個数","fine_per_unit": 10},
+  {"name": "薬物販売","fine": 200,"prison": 10,"group": [],"input": false},
+  {"name": "薬物生成","fine": 200,"prison": 10,"group": [],"input": false},
+  {"name": "花所持","fine": 0,"prison": 0,"group": [],"input": false},
+  {"name": "逃走補助","fine": 200,"prison": 15,"group": ["escape"],"input": false},
+  {"name": "窃盗/窃盗未遂","fine": 7,"prison": 5,"group": [],"input": false},
+  {"name": "公務執行妨害","fine": 10,"prison": 5,"group": [],"input": false},
+  {"name": "暴行","fine": 5,"prison": 5,"group": [],"input": false},
+  {"name": "拉致/監禁","fine": 10,"prison": 5,"group": [],"input": false},
+  {"name": "セクハラ","fine": 0,"prison": 0,"input_fine": true,"input_fine_label": "5～20万","input_prison": true,"input_prison_label": "0～10分","allow_prison_over": true},
+  {"name": "侮辱","fine": 0,"prison": 0,"input_fine": true,"input_fine_label": "5～20万","input_prison": true,"input_prison_label": "0～10分","allow_prison_over": true},
+  {"name": "詐欺","fine": 500,"prison": 0,"input_prison": true,"input_prison_label": "0～10分"},
+  {"name": "なりすまし","fine": 1000,"prison": 15,"group": [],"input": false},
+  {"name": "コンビニ強盗","fine": 75,"prison": 5,"group": ["shop_robbery"],"input": false},
+  {"name": "ATM強盗","fine": 75,"prison": 5,"group": ["atm_robbery"],"input": false},
+  {"name": "標識強盗","fine": 0,"prison": 5,"group": ["sign_robbery"],"input": false},
+  {"name": "ブースティングB,C,D","fine": 0,"prison": 0,"input_fine": true,"input_prison": true,"group": ["boost_lower"],"input": false},
+  {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false},
+  {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false},
+  {"name": "武器強盗","fine": 300,"prison": 15,"group": ["ammunation"],"input": false},
+  {"name": "カニバル強盗","fine": 400,"prison": 15,"group": ["cannibal"],"input": false},
+  {"name": "ブースティングS,A","fine": 0,"prison": 0,"input_fine": true,"input_prison": true,"group": ["boost_high"],"input": false},
+  {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false},
+  {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false},
+  {"name": "パレト銀行強盗","fine": 800,"prison": 25,"group": ["paleto"],"input": false},
+  {"name": "ユニオン強盗","fine": 1200,"prison": 30,"group": ["union"],"input": false},
+  {"name": "パシフィック銀行強盗","fine": 1300,"prison": 30,"group": ["pacific"],"input": false},
+  {"name": "飛行場襲撃","fine": 700,"prison": 30,"group": ["deluxe_car"],"input": false},
+  {"name": "オイルリグ","fine": 850,"prison": 30,"group": ["oilrig"],"input": false},
+  {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false},
+  {"name": "市長の工場強盗","fine":1500,"prison": 30,"group": ["mayor_factory"],"input": false},
+  {"name": "ヒューマンラボ","fine":1000,"prison": 30,"group": ["humane_labs"],"input_fine": false},
+  {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true}
 ]
