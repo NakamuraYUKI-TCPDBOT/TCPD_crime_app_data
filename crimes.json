@@ -37,6 +37,10 @@
   },
   {"name": "コンビニ強盗","fine": 75,"prison": 5,"group": ["shop_robbery"],"input": false
   },
+  {"name": "ATM強盗","fine": 75,"prison": 5,"group": ["atm_robbery"],"input": false
+  },
+  {"name": "標識強盗","fine": 75,"prison": 5,"group": ["sign_robbery"],"input": false
+  },
   {"name": "銀行強盗","fine": 250,"prison": 15,"group": ["bank"],"input": false
   },
   {"name": "宝石強盗","fine": 400,"prison": 20,"group": ["vangelico"],"input": false
