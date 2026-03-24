@@ -7,7 +7,7 @@
   {"name": "薬物所持","fine": 0,"prison": 10,"input_count": true,"input_count_label": "個数","fine_per_unit": 10},
   {"name": "薬物販売","fine": 200,"prison": 10,"group": [],"input": false},
   {"name": "薬物生成","fine": 200,"prison": 10,"group": [],"input": false},
-  {"name": "花•違法キノコ所持","fine": 0,"prison": 0,"group": [],"input": false},
+  {"name": "花.違法キノコ所持","fine": 0,"prison": 0,"group": [],"input": false},
   {"name": "逃走補助","fine": 200,"prison": 15,"group": ["escape"],"input": false},
   {"name": "窃盗/窃盗未遂","fine": 7,"prison": 5,"group": [],"input": false},
   {"name": "公務執行妨害","fine": 10,"prison": 5,"group": [],"input": false},
