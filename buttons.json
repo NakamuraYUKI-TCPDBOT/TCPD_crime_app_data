@@ -18,7 +18,7 @@
     "clear_first": true
   },
   {
-    "label": "ブースティングB,C,D",
+    "label": "ブースティングB,C,D 4",
     "group_names": ["boost_lower","robbery"],
     "group": "小型",
     "clear_first": true
@@ -48,7 +48,7 @@
     "clear_first": true
   },
   {
-    "label": "ブースティングS,A",
+    "label": "ブースティングS,A 4",
     "group_names": ["boost_high", "robbery_weapon", "npckill"],
     "group": "中型",
     "clear_first": true
