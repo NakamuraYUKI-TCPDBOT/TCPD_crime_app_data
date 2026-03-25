@@ -7,7 +7,7 @@
   },
   {
     "label": "ATM強盗 2",
-    "group_names": ["atm_robbery", "robbery"],
+    "group_names": ["atm_robbery", "robbery","hostage"],
     "group": "小型",
     "clear_first": true
   },
