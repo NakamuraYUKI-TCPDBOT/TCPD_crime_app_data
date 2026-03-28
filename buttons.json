@@ -108,7 +108,7 @@
     "clear_first": true
   },
   {
-    "label": "ヒューマンラボ 15",
+    "label": "ヒューマンラボ 14",
     "group_names": ["humane_labs", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
