@@ -36,12 +36,6 @@
     "clear_first": true
   },
   {
-    "label": "武器強盗 6",
-    "group_names": ["ammunation", "robbery_weapon", "playerkill"],
-    "group": "中型",
-    "clear_first": true
-  },
-  {
     "label": "カニバル強盗 7",
     "group_names": ["cannibal", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
