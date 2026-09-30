@@ -1,6 +1,6 @@
 [
   {
-    "label": "コンビニ強盗 2+2",
+    "label": "コンビニ強盗 2+1",
     "group_names": ["shop_robbery", "robbery_weapon", "hostage", "npckill"],
     "group": "小型",
     "clear_first": true
@@ -24,20 +24,44 @@
     "clear_first": true
   },
   {
-    "label": "銀行強盗 5+2",
+    "label": "銀行強盗 4+1",
     "group_names": ["bank", "robbery_weapon", "hostage"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "宝石強盗 7+2",
-    "group_names": ["vangelico", "robbery_weapon", "hostage"],
+    "label": "宝石強盗 6",
+    "group_names": ["vangelico", "robbery_weapon", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
   {
-    "label": "カニバル強盗 7",
+    "label": "カニバル強盗 6",
     "group_names": ["cannibal", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "サーマルミッション 6",
+    "group_names": ["thermite", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "現金輸送車強盗 6",
+    "group_names": ["cashtruck", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "飛行機墜落 7",
+    "group_names": ["plane_crash", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
+    "label": "タグボート 6",
+    "group_names": ["tagboat", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
@@ -48,13 +72,13 @@
     "clear_first": true
   },
   {
-    "label": "ボブキャット襲撃 10",
+    "label": "ボブキャット襲撃 8",
     "group_names": ["bobcat", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "客船強盗 11",
+    "label": "客船強盗 9",
     "group_names": ["yacht", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
@@ -66,19 +90,19 @@
     "clear_first": true
   },
   {
-    "label": "ユニオン強盗 14",
+    "label": "ユニオン強盗 12",
     "group_names": ["union", "robbery_weapon", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "パシフィック銀行強盗 15",
+    "label": "パシフィック銀行強盗 13",
     "group_names": ["pacific", "robbery_weapon", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "飛行場襲撃 12",
+    "label": "飛行場襲撃 10",
     "group_names": ["deluxe_car", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
@@ -90,20 +114,44 @@
     "clear_first": true
   },
   {
-    "label": "アーティファクト 12",
+    "label": "アーティファクト 11",
     "group_names": ["artifact", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "市長の工場強盗 15",
+    "label": "市長の工場強盗 13",
     "group_names": ["mayor_factory", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
   {
-    "label": "ヒューマンラボ 14",
+    "label": "ヒューマンラボ 12",
     "group_names": ["humane_labs", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "ライフインベーダー 9",
+    "group_names": ["life_inv", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "北ヨット強盗 9",
+    "group_names": ["north_yacht", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "S.S.空港襲撃 10",
+    "group_names": ["sandyshoresairport", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "ブラック・ソナー 10",
+    "group_names": ["blacksonar", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
